@@ -1,10 +1,3 @@
-//
-//  RecipeTabView.swift
-//  Recipe List App
-//
-//  Created by Pham on 2/21/23.
-//
-
 import SwiftUI
 
 struct RecipeTabView: View {

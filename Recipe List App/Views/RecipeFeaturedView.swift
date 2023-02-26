@@ -1,10 +1,3 @@
-//
-//  RecipeFeaturedView.swift
-//  Recipe List App
-//
-//  Created by Pham on 2/25/23.
-//
-
 import SwiftUI
 
 struct RecipeFeaturedView: View {
