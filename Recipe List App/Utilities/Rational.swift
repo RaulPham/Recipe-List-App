@@ -13,5 +13,4 @@ struct Rational {
         // Otherwise, GCD(a, b) = GCD(b, remainder)
         return greatestCommonDivisor(b, a % b)
     }
-    
 }
