@@ -8,6 +8,7 @@ struct RecipeTabView: View {
                             VStack {
                                   Image(systemName: "star.fill")
                                   Text("Featured")
+                                        .font(Font.custom("Avenir", size: 15))
                             }
                       }
                 
@@ -16,6 +17,7 @@ struct RecipeTabView: View {
                             VStack {
                                   Image(systemName: "list.bullet")
                                   Text("List")
+                                        .font(Font.custom("Avenir", size: 15))
                             }
                       }
           }
